@@ -1,6 +1,6 @@
 <?php
 
-namespace Enflow\LaravelExcelToGoogleSheet;
+namespace Bogordesain\LaravelExcelToGoogleSheet;
 
 use Google\Exception as GoogleException;
 use Illuminate\Support\LazyCollection;

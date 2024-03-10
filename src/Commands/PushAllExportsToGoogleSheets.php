@@ -1,8 +1,8 @@
 <?php
 
-namespace Enflow\LaravelExcelToGoogleSheet\Commands;
+namespace Bogordesain\LaravelExcelToGoogleSheet\Commands;
 
-use Enflow\LaravelExcelToGoogleSheet\GoogleSheetPusher;
+use Bogordesain\LaravelExcelToGoogleSheet\GoogleSheetPusher;
 use Illuminate\Console\Command;
 use Throwable;
 

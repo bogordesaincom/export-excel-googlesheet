@@ -1,6 +1,6 @@
 <?php
 
-namespace Enflow\LaravelExcelToGoogleSheet\Exceptions;
+namespace Bogordesain\LaravelExcelToGoogleSheet\Exceptions;
 
 use Exception;
 

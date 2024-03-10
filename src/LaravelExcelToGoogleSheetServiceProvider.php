@@ -1,10 +1,10 @@
 <?php
 
-namespace Enflow\LaravelExcelToGoogleSheet;
+namespace Bogordesain\LaravelExcelToGoogleSheet;
 
-use Enflow\LaravelExcelToGoogleSheet\Commands\PushAllExportsToGoogleSheets;
-use Enflow\LaravelExcelToGoogleSheet\Commands\PushExportToGoogleSheets;
-use Enflow\LaravelExcelToGoogleSheet\Exceptions\InvalidConfiguration;
+use Bogordesain\LaravelExcelToGoogleSheet\Commands\PushAllExportsToGoogleSheets;
+use Bogordesain\LaravelExcelToGoogleSheet\Commands\PushExportToGoogleSheets;
+use Bogordesain\LaravelExcelToGoogleSheet\Exceptions\InvalidConfiguration;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Enflow\LaravelExcelToGoogleSheet;
+namespace Bogordesain\LaravelExcelToGoogleSheet;
 
-use Enflow\LaravelExcelToGoogleSheet\Exceptions\InvalidConfiguration;
+use Bogordesain\LaravelExcelToGoogleSheet\Exceptions\InvalidConfiguration;
 use Google\Service\Sheets;
 use Google_Service_Sheets_BatchUpdateSpreadsheetRequest;
 use Google_Service_Sheets_ValueRange;

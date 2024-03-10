@@ -6,7 +6,7 @@
         "excel",
         "sheet"
     ],
-    "homepage": "https://github.com/enflow/laravel-excel-to-google-sheet",
+    "homepage": "https://github.com/bogordesaincom/export-excel-googlesheet.git",
     "license": "MIT",
     "authors": [
         {
@@ -27,19 +27,19 @@
     },
     "autoload": {
         "psr-4": {
-            "Enflow\\LaravelExcelToGoogleSheet\\": "src/"
+            "Bogordesain\\LaravelExcelToGoogleSheet\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Enflow\\LaravelExcelToGoogleSheet\\LaravelExcelToGoogleSheetServiceProvider"
+                "Bogordesain\\LaravelExcelToGoogleSheet\\LaravelExcelToGoogleSheetServiceProvider"
             ]
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Enflow\\LaravelExcelToGoogleSheet\\Test\\": "tests"
+            "Bogordesain\\LaravelExcelToGoogleSheet\\Test\\": "tests"
         }
     },
     "scripts": {

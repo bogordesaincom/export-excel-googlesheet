@@ -1,10 +1,10 @@
 <?php
 
-namespace Enflow\LaravelExcelToGoogleSheet\Commands;
+namespace Bogordesain\LaravelExcelToGoogleSheet\Commands;
 
-use Enflow\LaravelExcelToGoogleSheet\Exceptions\InvalidConfiguration;
-use Enflow\LaravelExcelToGoogleSheet\ExportableToGoogleSheet;
-use Enflow\LaravelExcelToGoogleSheet\GoogleSheetPusher;
+use Bogordesain\LaravelExcelToGoogleSheet\Exceptions\InvalidConfiguration;
+use Bogordesain\LaravelExcelToGoogleSheet\ExportableToGoogleSheet;
+use Bogordesain\LaravelExcelToGoogleSheet\GoogleSheetPusher;
 use Illuminate\Console\Command;
 use Illuminate\Support\Arr;
 
